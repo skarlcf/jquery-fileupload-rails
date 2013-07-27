@@ -1,5 +1,8 @@
 //=require jquery-fileupload/vendor/jquery.ui.widget
 //=require jquery-fileupload/vendor/load-image
+//=require jquery-fileupload/vendor/load-image-meta
+//=require jquery-fileupload/vendor/load-image-exif
+//=require jquery-fileupload/vendor/load-image-ios
 //=require jquery-fileupload/vendor/canvas-to-blob
 //=require jquery-fileupload/vendor/tmpl
 //=require jquery-fileupload/jquery.iframe-transport
